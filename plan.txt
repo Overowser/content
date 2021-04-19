@@ -1,0 +1,36 @@
+-objets d'elevage:
+*caresseur: nileza
+*baffeur:sylargh
+*dragofesse:roi nidas
+*mangeoire: korri/?
+*foudroyeur:klime
+*abreuvoir:missiz
+
+sérénité:
+etape 1: sérénité négative to positive
+etape 2: sérénité positive to negative
+etape 3: male sérénité to 300 à 400
+etape 4: female sérénition to -300 à -400
+
+check point24 (if etape 1 and 2 actually did something)
+
+first stat:
+etape 1(5): male amour
+etape 2(6): female endurance
+
+check point 12
+
+maturité:
+etape (7): male et female maturité
+
+check point 24
+
+energie:
+etape (8): male et female energie
+
+check point 12
+
+last stat:
+etape 1(9): male amour
+etape 2(10): female endurance
+
